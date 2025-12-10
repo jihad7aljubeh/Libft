@@ -324,4 +324,4 @@ If you reuse parts of this code publicly, please include proper attribution and 
 
 - **Login:** `jalju-be`  
 - **School:** 42  
-- **GitHub:** [jalju-be](https://github.com/jalju-be)
+- **GitHub:** [jihad7aljubeh](https://github.com/jihad7aljubeh)
